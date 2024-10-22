@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://raneyese.github.io/raneyese.raneyese
+Sitemap: https://raneyese.github.io/app/raneyese.raneyese
+Sitemap: https://raneyese.github.io/assets/raneyese.raneyese
+Sitemap: https://raneyese.github.io/css/raneyese.raneyese
+Sitemap: https://raneyese.github.io/includes/raneyese.raneyese
+Sitemap: https://raneyese.github.io/item/raneyese.raneyese
+Sitemap: https://raneyese.github.io/src/raneyese.raneyese
